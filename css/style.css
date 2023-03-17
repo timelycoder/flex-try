@@ -1,0 +1,33 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+.flex{
+  display: flex;
+  margin: 3pxpx;
+}
+.row1{
+background-color: blueviolet;
+width: 50%;
+border: 2px solid;
+height: 25px;
+border-radius: 5px;
+
+
+}
+.row2{background-color:forestgreen;
+  width: 50%;
+  border: 2px solid;
+  height: 25px;
+  border-radius: 5px;
+
+}
+.flexy{
+  display: flex;
+}
+.tom1{
+background-color: brown;
+width: 25%;
+height: 100px;
+margin: 8px 8px 8px 8px;
+}
